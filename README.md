@@ -1,18 +1,18 @@
-# 🕐 Tokisaki — Immersion Tracker
+# Tokisaki — Immersion Tracker
 
 Aplicação de linha de comando desenvolvida em Java para registrar e contabilizar o tempo de imersão em mídias japonesas como animes e visual novels.
 
 ---
 
-## 📌 Sobre o projeto
+## Sobre o projeto
 
-O Tokisaki foi criado como projeto de estudo para aplicar conceitos de **Orientação a Objetos em Java**, separando responsabilidades entre classes e simulando um sistema simples de registro de dados em memória.
+Tokisaki foi criado como projeto de estudo para aplicar conceitos de **Orientação a Objetos em Java**, separando responsabilidades entre classes e simulando um sistema simples de registro de dados em memória.
 
 O projeto faz parte do meu portfólio de aprendizado em Java, com foco em back-end.
 
 ---
 
-## ⚙️ Funcionalidades
+## Funcionalidades
 
 - Adicionar registros de imersão (nome da mídia, tempo em minutos e tipo)
 - Calcular o tempo total de imersão acumulado (exibido em horas)
@@ -20,7 +20,7 @@ O projeto faz parte do meu portfólio de aprendizado em Java, com foco em back-e
 
 ---
 
-## 🧱 Estrutura do projeto
+## Estrutura do projeto
 
 ```
 Tokisaki/
@@ -88,7 +88,7 @@ Tempo total de imersão: 3.00 horas.
 
 ---
 
-## 🛠️ Tecnologias utilizadas
+## Tecnologias utilizadas
 
 - **Java 17**
 - **IntelliJ IDEA**
@@ -97,7 +97,7 @@ Tempo total de imersão: 3.00 horas.
 
 ---
 
-## 📚 Conceitos aplicados
+## Conceitos aplicados
 
 - **Encapsulamento** — atributos privados com acesso via getters e setters
 - **Separação de responsabilidades** — cada classe com uma função específica
@@ -106,16 +106,9 @@ Tempo total de imersão: 3.00 horas.
 
 ---
 
-## 🔮 Próximos passos
+## Próximos passos
 
 - [ ] Migrar para **Spring Boot** com API REST
 - [ ] Persistência com **JPA/Hibernate** e **PostgreSQL**
 - [ ] Adicionar validação de entrada de dados
 - [ ] Implementar testes com **JUnit**
-
----
-
-## 👤 Autor
-
-**Gustavo Araújo Dutra**  
-[LinkedIn](https://www.linkedin.com/in/gustavo-araújo-dutra) · [GitHub](https://github.com/nyxzak)
